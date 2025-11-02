@@ -6,10 +6,19 @@
   ==================================================================
 -->
 
-## 11/2/2025 - Started following tutorial  
+## 11/2/2025 12 AM - Started following tutorial  
 
 I created the project in KiCAD and started following the tutorial. I added the MCU to the schematic and I also added power decoupling and a USB C port. 
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--60cd8b646e0860a74b517642fcb3d93df11f3cfa/image.png)
+  
+
+## 11/2/2025 1 AM - Crystal Oscillator and Flash Storage  
+
+Added the crystal oscillator part to the schematic which vibrates very precisely and acts as a clock signal. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fba11171ad50ac14b947b8676f21f85dd4ec50fd/image.png)
+
+Added flash storage to schematic. This uses SPI communication with the MCU being the master and the flash being the slave. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bdac9556f6d94658cac02af84c59e614cac0e555/image.png)
   
 

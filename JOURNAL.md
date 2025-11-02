@@ -13,12 +13,24 @@ I created the project in KiCAD and started following the tutorial. I added the M
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--60cd8b646e0860a74b517642fcb3d93df11f3cfa/image.png)
   
 
-## 11/2/2025 1 AM - Crystal Oscillator and Flash Storage  
+## 11/2/2025 1:35 AM - Crystal Oscillator and Flash Storage  
 
 Added the crystal oscillator part to the schematic which vibrates very precisely and acts as a clock signal. 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fba11171ad50ac14b947b8676f21f85dd4ec50fd/image.png)
 
 Added flash storage to schematic. This uses SPI communication with the MCU being the master and the flash being the slave. 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--bdac9556f6d94658cac02af84c59e614cac0e555/image.png)
+  
+
+## 11/2/2025 1:03 AM - Breaking out the I/O headers  
+
+Added labels to all of the unlabeled headers
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fc016003331fbb1cc5be9561b77b34884b2a0083/image.png)
+
+Spread them all out into connector pins
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--2eb035972ca2219bc857809d7a3276025014a209/image.png)
+
+Organized and tidied up the schematic by adding boxes to separate each section. 
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2MywicHVyIjoiYmxvYl9pZCJ9fQ==--35298021d19f17edc6330dcd063d19f48de6ffcf/image.png)
   
 

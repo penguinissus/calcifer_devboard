@@ -34,10 +34,17 @@ Organized and tidied up the schematic by adding boxes to separate each section.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzY2MywicHVyIjoiYmxvYl9pZCJ9fQ==--35298021d19f17edc6330dcd063d19f48de6ffcf/image.png)
   
 
-## 11/3/2025 - Added footprints  
+## 11/3/2025 12 AM - Added footprints  
 
 I assigned footprints for all of the basic parts like capacitors and resistors using SMD plates. 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c661f8ba4b50b63435f7c7ae789d930cfd2d5ec/image.png)
 Looked through JLCPCB LCSC to figure out what parts to use. 
+  
+
+## 11/3/2025 9 AM - Added the rest of the footprints  
+
+I originally thought I had to make my own footprints, so I spent a lot of time looking at the datasheets. Then I thought to ask people if I could just find the footprints on KiCAD and I did. 
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA4MiwicHVyIjoiYmxvYl9pZCJ9fQ==--99e296c93b37aef7b5aa2029f5145c7ce4e9cd81/image.png) 
   
 
